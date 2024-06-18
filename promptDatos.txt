@@ -1,0 +1,67 @@
+1. Descripción de la estrategia: Resume en un máximo de 100 palabras el enfoque principal del fondo, describiendo el tipo de inversiones que realiza, el tamaño de empresa en que invierte (por monto de EBITDA que generan idealmente), la filosofía de inversión y los objetivos generales del fondo.
+
+2. Asset Class: Identifica y describe la clase de activo principal en la que invierte el fondo, como buyout, private equity, crédito, fondos secundarios, bienes raíces, etc.
+
+3. Vintage: Especifica el año en que se espera realizar la primera inversión del fondo. Si esta información no está disponible, indica cuándo se espera que el fondo termine de invertirse. Busca términos como “vintage year”, “expected fund activation”.
+
+4. Geografía: Describe las regiones, países o continentes donde el fondo tiene intención de invertir, incluyendo cualquier enfoque específico hacia mercados emergentes o desarrollados. También dime cómo ha sido la distribución geográfica de los fondos anteriores de esta misma estrategia.
+
+5. Sectores: Indica los sectores o industrias en los que el fondo planea centrar sus inversiones, como tecnología, salud, manufactura, energía, etc. También dime cómo ha sido la distribución sectorial de los fondos anteriores de esta misma estrategia.
+
+6. Marca: Proporciona una descripción general de la firma de gestión (GP), incluyendo su reputación, historia, misión y cualquier característica distintiva.
+
+7. Referencias: Recoge opiniones y comentarios de otros inversionistas sobre la firma y su estrategia, normalmente provenientes de fuentes externas a la firma. Busca términos como "investor references," "LP feedback," "external reviews."
+
+8. LP Base: Identifica el tipo de inversionistas o clientes que invierten en el fondo, como instituciones, compañías de seguros, fondos de pensiones, family offices, etc. Si es posible, menciona nombres específicos. Busca términos como "limited Partners base," "investor base," "LP base."
+
+9. Firm Size: Indica el total de activos bajo gestión (AUM) de la firma, desglosados por tipo de estrategia si está disponible. Incluye cualquier información relevante sobre el crecimiento de estos activos. Busca términos como "assets under management," "AUM," "firm size."
+
+10. Asset Class Size: Especifica el total de activos bajo gestión (AUM) en la estrategia específica del fondo. Si no se dispone de esta información, menciona cuánto se ha invertido históricamente o en los últimos años. Busca términos como "strategy AUM," "strategy historical investments"
+
+11. Historia como Firma en General: Proporciona una breve reseña histórica de la firma, incluyendo el año de fundación, eventos clave y evolución hasta el presente. Busca términos como "firm history," "founding year," "key milestones."
+
+12. Historia en el Asset Class: Indica cuándo la firma comenzó a invertir en esta estrategia específica. Si los miembros del equipo tenían experiencia previa en otra firma, incluye esa información. Busca términos como "strategy history," "investment track record," "team experience."
+
+13. Representatividad del Track Record: Evalúa cuánto tiempo han trabajado juntos los miembros actuales del equipo en esta estrategia y si el track record es atribuible al equipo actual. Busca términos como "team tenure," "investment team history," "track record attribution", "investment team experience,".
+
+14. Net MOIC Agregado: Indica el múltiplo de inversión neto agregado (Net MOIC) obtenido en esta estrategia a lo largo de todos sus fondos. Si no está disponible, calcula y proporciona el promedio del MOIC de cada fondo. Normalmente esta información está disponible en una tabla que contiene el resumen de los resultados que han obtenido en sus fondos. Busca términos como "net MOIC," "aggregate MOIC," "average MOIC.", "net TVPI," "aggregate TVPI," "average TVPI.", “historical MOIC”
+
+15. NET IRR: Indica la tasa interna de retorno neta (Net IRR) agregada obtenida en esta estrategia a lo largo de todos sus fondos. Si no está disponible, calcula y proporciona el promedio del IRR de cada fondo. Normalmente esta información está disponible en una tabla que contiene el resumen de los resultados que han obtenido en sus fondos. Busca términos como "net IRR," "aggregate IRR," "average IRR.".
+
+16. Relativo a la Industria (Neto y Gross): Compara los resultados de los fondos obtenidos por el gestor con otros fondos que son gestionados por otros gestores y que siguen estrategias similares. Entrega una comparación tanto en términos netos como brutos. Busca términos como "industry comparison," "peer performance," "benchmarking."
+
+17. Consistencia (por fondo): Evalúa la consistencia de los resultados de los fondos anteriores, analizando la diferencia de retornos entre ellos. Busca términos como "fund performance consistency," "historical returns," "performance variance."
+
+18. Consistencia (por deal): Si se dispone de información sobre las transacciones individuales, presenta un histograma que refleje la dispersión de los retornos por IRR y MOIC. Busca términos como "deal performance," "transaction returns," "IRR dispersion.", “consistency”, “dispersión”
+
+19. Consistencia: Loss Ratio: Indica el ratio de pérdidas (Loss Ratio) del fondo, definido como la cantidad de transacciones con pérdidas o la cantidad de dinero perdido dividido por el total invertido. Busca términos como "loss ratio," "loss rate," "investment losses."
+
+20. Fortalezas: Describe las fortalezas y ventajas competitivas del equipo y la firma para gestionar este fondo o estrategia en particular. Busca términos como "strengths," "competitive advantages," "unique capabilities.", “differentiation”
+
+21. Capacidades de Sourcing: Resume las capacidades del fondo para identificar oportunidades de inversión, incluyendo estrategias de prospección, networking, análisis de mercado y relaciones clave que facilitan el acceso a oportunidades exclusivas. Entrega información respecto de cuántas transacciones han sido de fuentes propietarias o con brokers. También entrega información sobre información de transacciones en subastas o bilaterales y del estilo. Muchas veces información para esta respuesta está en formato de gráficos. Busca términos como "sourcing capabilities," "deal sourcing," "investment opportunities.", “proprietary”, “auction”
+
+22. Creación de Valor: Proporciona una evaluación de cómo la firma crea valor en sus inversiones, incluyendo la selección de oportunidades, crecimiento del EBITDA, uso de apalancamiento, expansión de múltiplos y estructuración de transacciones. Busca términos como "value creation," "EBITDA growth," "leverage utilization.", ”multiple expansión”
+
+23. Salidas: Describe las estrategias de salida del fondo, incluyendo a quiénes venden sus inversiones (estratégicos, otros fondos, mercado público) y su dependencia del mercado de capitales. Para fondos de crédito, enfócate en el plazo de prepagos o reestructuración de deuda. Busca términos como "exit strategies," "investment exits," "exit dependability.",”Strategic sales”, “IPO”
+
+24. Estabilidad del equipo: Resume la estabilidad del equipo de inversiones en los últimos 5 años, mencionando cualquier salida de ejecutivos y, si es posible, las razones de su salida. Sé específico al mencionar si ha habido ejecutivos que se han ido de la firma. Normalmente en los documentos de DDQ o PPM encuentras esta información. Busca términos como "team stability," "executive turnover," "employee retention.", “departures”, “Leavers”
+
+25. Tamaño y Capacidad: Indica el número de profesionales en el equipo de inversiones, su experiencia, tiempo en la firma y capacidad para gestionar las inversiones. También entrega el promedio de años de experiencia del equipo. Tambien necesito el promedio de años que el equipo lleva trabajando en la firma. Busca términos como "team size," "investment team capacity," "professional experience.", “team experience”, “team tenure”
+
+26. Incentivos: Describe el esquema de compensación de los profesionales de inversión, incluyendo si reciben una parte del carried interest. Busca términos como "compensation structure," "incentive scheme," "carried interest.", “Compensation”, “salary”, “retention program”
+
+27. Sucesión: Proporciona información sobre los planes de sucesión de los líderes de la firma y cómo se prepara la próxima generación de líderes. Busca términos como "succession planning," "leadership transition," "future leadership."
+
+28. Management Fees: Indica los management fees que cobra el fondo y su base de cálculo
+
+29. Performance Fee: Describe la estructura de comisiones de rendimiento (carried interest), incluyendo el hurdle rate y el gp catch up. Busca términos como "performance fee," "carried interest," "hurdle rate."
+
+30. Overall Terms: Proporciona detalles sobre el plazo del fondo, el período de inversión y cualquier cláusula relevante que podría ser preocupante para los inversionistas. Busca términos como "fund terms," "investment period,"
+
+31. GP Commitment: Indica el compromiso financiero del General Partner (GP) en el fondo. Esto incluye el compromiso de la firma, sus afiliadas y sus empleados. Puede expresarse en dólares o como % del tamaño del fondo
+
+32. Inversión mínima: Especifica si existe un mínimo de inversión para participar en el fondo y cuánto es. Busca términos como "minimum investment," “Minimum LP Commitment”
+
+33. Domicilio y tipo de estructura: Indica la jurisdicción en la que está domiciliado el vehículo de inversión. Si hay más de uno, menciónalos todos. 
+
+34. Fund Size: Indica el tamaño objetivo del fondo, también conocido como Target Size, y cualquier límite superior (hard cap) en la captación de capital. Busca términos como "fund size," "target size," "hard cap"
